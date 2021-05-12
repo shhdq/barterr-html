@@ -143,3 +143,11 @@ ul li {
 .footer {
     margin-top: 20vw;
 }
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    color:rgb(101, 148, 166);
+}
