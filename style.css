@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+}
+.cta-text {
+    color: rgb(248, 139, 54);
+    font-size: 2em;
+}
+.next-line-text {
+    position: relative;
+    left: 10vw;
+}
+.footer {
+    background-color: rgb(248, 139, 54, 0.6);
+}
+
+ul li {
+    list-style-type: none;
+    color: white;
+    font-weight: bold;
+}
+.create {
+    float: right;
+}
+.create a {
+    color: rgb(248, 139, 54);
+}
+.text {
+    color: rgb(101, 148, 166);
+    font-weight: 600;
+}
+.lang-card-1 {
+    width: 20vw;
+    height: 10vh;
+    background-color: #c0d6e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3rem;
+}
+.lang-card-2 {
+    width: 20vw;
+    height: 10vh;
+    background-color: #c0d6e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3rem;
+}
+.lang-card-3 {
+    width: 20vw;
+    height: 10vh;
+    background-color: #c0d6e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3rem;
+}
+.setup a {
+    text-decoration: none;
+}
+.profile-icon-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-icon-section a {
+    text-decoration: none;
+    color: rgb(248, 139, 54);
+}
+.profile-icon {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: #c0d6e4;
+    align-items: center;
+    justify-content: center;
+}
+.profile-name {
+    color: #003366;
+}
+.cat-name-block {
+    margin-top: 10vw;
+    font-weight: 800;
+    font-size: 2rem;
+    color: white;
+    width: 100%;
+    background-color: rgb(248, 139, 54, 0.6);
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-icon-full {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: #c0d6e4;
+    align-items: center;
+    justify-content: center;
+}
+.full-profile-barters-list {
+    background-image: url("./img/hands.svg");
+    opacity: 0.3;
+    background-color: #cccccc;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    position: relative;
+}
+.pluss-full {
+    opacity: 0.9 !important;
+    position: relative;
+    top: 130px;
+    left: 180px;
+}
+.upload-photo {
+    font-size: 1.5rem;
+    color: #003366;
+    text-decoration: none;
+}
+.wishlist {
+    text-align: start;
+}
+.wishlist a {
+    text-decoration: none;
+    color: rgb(248, 139, 54);
+    position: relative;
+    top: 20px;
+    left: 60px
+}
+.create-form label {
+    font-size: 1.5rem;
+    color: #003366;
+    text-decoration: none;
+}
