@@ -156,3 +156,8 @@ a[type='button'] {
     -moz-appearance: none;
     appearance: none;
 }
+button[type='button'] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
