@@ -166,3 +166,8 @@ button[type='button'] {
     -moz-appearance: none;
     appearance: none;
 }
+.top-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-between
+}
